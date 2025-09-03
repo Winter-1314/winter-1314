@@ -73,7 +73,7 @@
 
 <div align="center">
   
-### 💡 *"Code is poetry written in logic"*
+### 💡 *"It is a capital mistake to theorize before one has data. Insensibly one begins to twist facts to suit theories, instead of theories to suit facts"*
 
 **Thanks for visiting! ⭐ Star some repositories if you found them interesting!**
 
