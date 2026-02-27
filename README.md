@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I'm+Winter-1314;Welcome+to+my+GitHub!;&center=true&size=30">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+World!+👋;I'm+Winter-1314;Welcome+to+my+GitHub!;&center=true&size=30">
 </h1>
 
 ---
@@ -35,6 +35,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Winter-1314&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Winter-1314&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</div>
+
 ---
 
 ## 🏆 GitHub Trophies
@@ -48,7 +52,7 @@
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Winter-1314/winter-1314">
+  <a href="https://github.com/Winter-1314/vulnerable-webapp-v1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Winter-1314&repo=vulnerable-webapp-v1&theme=tokyonight" />
   </a>
 </div>
